@@ -1,0 +1,11 @@
+E:\BT C#\QuanLyThuVienC#\QuanLyThuVienC#\bin\Debug\QuanLyThuVienC#.exe.config
+E:\BT C#\QuanLyThuVienC#\QuanLyThuVienC#\bin\Debug\QuanLyThuVienC#.exe
+E:\BT C#\QuanLyThuVienC#\QuanLyThuVienC#\bin\Debug\QuanLyThuVienC#.pdb
+E:\BT C#\QuanLyThuVienC#\QuanLyThuVienC#\obj\Debug\QuanLyThuVienC#.csproj.AssemblyReference.cache
+E:\BT C#\QuanLyThuVienC#\QuanLyThuVienC#\obj\Debug\QuanLyThuVienC_.Properties.Resources.resources
+E:\BT C#\QuanLyThuVienC#\QuanLyThuVienC#\obj\Debug\QuanLyThuVienC#.csproj.GenerateResource.cache
+E:\BT C#\QuanLyThuVienC#\QuanLyThuVienC#\obj\Debug\QuanLyThuVienC#.csproj.CoreCompileInputs.cache
+E:\BT C#\QuanLyThuVienC#\QuanLyThuVienC#\obj\Debug\QuanLyThuVienC#.exe
+E:\BT C#\QuanLyThuVienC#\QuanLyThuVienC#\obj\Debug\QuanLyThuVienC#.pdb
+E:\BT C#\QuanLyThuVienC#\QuanLyThuVienC#\obj\Debug\QuanLyThuVienC_.TrangChu.resources
+E:\BT C#\QuanLyThuVienC#\QuanLyThuVienC#\obj\Debug\QuanLyThuVienC_.QuanLySinhVien.resources
